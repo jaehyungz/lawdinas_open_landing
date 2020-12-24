@@ -6,7 +6,7 @@ const Container = styled.div`
   display: flex;
   justify-content: center;
   width: 100%;
-  height: auto;
+  /* height: auto; */
 `;
 
 const ImageContainer = styled.div`
@@ -15,6 +15,7 @@ const ImageContainer = styled.div`
 
 const Image = styled.img`
   width: 100%;
+  height: 100%;
   object-fit: contain;
 `;
 
