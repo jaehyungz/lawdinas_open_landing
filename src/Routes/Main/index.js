@@ -22,9 +22,8 @@ const Image = styled.img`
 const Download = styled.div`
   position: fixed;
   bottom: 0;
-  left: 0;
   font-size: 1.4rem;
-  // max-width: 900px;
+  max-width: 900px;
   width: 100%;
   height: 80px;
   background-color: #4a64f5;
